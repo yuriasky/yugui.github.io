@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Allgemeine Geschäftsbedingungen on Bigspring Hugo</title>
-    <link>https://yuriasky.github.io/yugui.github.io/de/terms-conditions/</link>
+    <link>http://localhost:1313/de/terms-conditions/</link>
     <description>Recent content in Allgemeine Geschäftsbedingungen on Bigspring Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Designed, animated and coded by me.© 2021</copyright><atom:link href="https://yuriasky.github.io/yugui.github.io/de/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Designed, animated and coded by me.© 2021</copyright><atom:link href="http://localhost:1313/de/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

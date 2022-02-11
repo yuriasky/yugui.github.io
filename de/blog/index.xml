@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuigkeiten on Bigspring Hugo</title>
-    <link>https://yuriasky.github.io/yugui.github.io/de/blog/</link>
+    <link>http://localhost:1313/de/blog/</link>
     <description>Recent content in Neuigkeiten on Bigspring Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Designed, animated and coded by me.© 2021</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://yuriasky.github.io/yugui.github.io/de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="http://localhost:1313/de/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dies ist eine deutsche Testseite</title>
-      <link>https://yuriasky.github.io/yugui.github.io/de/blog/post-1/</link>
+      <link>http://localhost:1313/de/blog/post-1/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://yuriasky.github.io/yugui.github.io/de/blog/post-1/</guid>
+      <guid>http://localhost:1313/de/blog/post-1/</guid>
       <description>Exemplarische Überschrift Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen.</description>
     </item>
     
