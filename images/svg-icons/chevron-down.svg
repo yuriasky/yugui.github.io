@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="chevron-down.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.333333"
+     inkscape:cx="1.0673077"
+     inkscape:cy="15.432692"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 20.664357,7.2528705 c 0.41279,0.3673 0.44997,1.00003 0.08305,1.41325 l -6.50518,7.3258895 c -1.19342,1.344 -3.29112,1.344 -4.4844199,0 l -6.5052,-7.3258895 c -0.3669,-0.41322 -0.3298,-1.04595 0.083,-1.41325 0.4128,-0.3673 1.0449,-0.33008 1.4118,0.08314 L 11.252607,14.66191 c 0.3978,0.448 1.097,0.448 1.4948,0 l 6.50518,-7.3258995 c 0.36692,-0.41322 0.99899,-0.45044 1.41177,-0.08314 z"
+     fill="#9496b2"
+     id="path2" />
+</svg>

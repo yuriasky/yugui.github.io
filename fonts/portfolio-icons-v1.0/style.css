@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "portfolio-icons";
+  src: url("fonts/portfolio-icons.eot?y54d1r");
+  src: url("fonts/portfolio-icons.eot?y54d1r#iefix") format("embedded-opentype"),
+    url("fonts/portfolio-icons.ttf?y54d1r") format("truetype"),
+    url("fonts/portfolio-icons.woff?y54d1r") format("woff"),
+    url("fonts/portfolio-icons.svg?y54d1r#portfolio-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "portfolio-icons" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-down:before {
+  content: "\e907";
+}
+.icon-chevron-left:before {
+  content: "\e908";
+}
+.icon-chevron-up:before {
+  content: "\e909";
+}
+.icon-hanburger:before {
+  content: "\e906";
+}
+.icon-chevron-right:before {
+  content: "\e904";
+}
+.icon-triangle-right:before {
+  content: "\e905";
+}
+.icon-dribbble:before {
+  content: "\e900";
+}
+.icon-linkedin:before {
+  content: "\e901";
+}
+.icon-telegram:before {
+  content: "\e902";
+}
+.icon-twitter:before {
+  content: "\e903";
+}
