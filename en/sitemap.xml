@@ -2,133 +2,133 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://yugui.design/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="https://yugui.design/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://yugui.design/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/post-1/</loc>
+    <loc>https://yugui.design/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/blog/post-1/"
+                href="https://yugui.design/de/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/post-1/"
+                href="https://yugui.design/blog/post-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/post-2/</loc>
+    <loc>https://yugui.design/blog/post-2/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-3/</loc>
+    <loc>https://yugui.design/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-4/</loc>
+    <loc>https://yugui.design/blog/post-4/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-5/</loc>
+    <loc>https://yugui.design/blog/post-5/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-6/</loc>
+    <loc>https://yugui.design/blog/post-6/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-7/</loc>
+    <loc>https://yugui.design/blog/post-7/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://yugui.design/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/blog/"
+                href="https://yugui.design/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/"
+                href="https://yugui.design/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://yugui.design/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                href="https://yugui.design/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://yugui.design/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://yugui.design/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/alldone/</loc>
+    <loc>https://yugui.design/alldone/</loc>
   </url><url>
-    <loc>http://localhost:1313/apklis/</loc>
+    <loc>https://yugui.design/apklis/</loc>
   </url><url>
-    <loc>http://localhost:1313/ce/</loc>
+    <loc>https://yugui.design/ce/</loc>
   </url><url>
-    <loc>http://localhost:1313/kaiko/</loc>
+    <loc>https://yugui.design/kaiko/</loc>
   </url><url>
-    <loc>http://localhost:1313/all-projects/</loc>
+    <loc>https://yugui.design/all-projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/pricing/</loc>
+    <loc>https://yugui.design/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/pricing/"
+                href="https://yugui.design/de/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/pricing/"
+                href="https://yugui.design/pricing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>https://yugui.design/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/privacy-policy/"
+                href="https://yugui.design/de/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/privacy-policy/"
+                href="https://yugui.design/privacy-policy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://yugui.design/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="https://yugui.design/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://yugui.design/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/terms-conditions/</loc>
+    <loc>https://yugui.design/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/terms-conditions/"
+                href="https://yugui.design/de/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/terms-conditions/"
+                href="https://yugui.design/terms-conditions/"
                 />
   </url>
 </urlset>
