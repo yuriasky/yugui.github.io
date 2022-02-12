@@ -59,6 +59,10 @@
                 href="https://yugui.design/blog/"
                 />
   </url><url>
+    <loc>https://yugui.design/alldone/</loc>
+  </url><url>
+    <loc>https://yugui.design/apklis/</loc>
+  </url><url>
     <loc>https://yugui.design/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -71,17 +75,9 @@
                 href="https://yugui.design/categories/"
                 />
   </url><url>
-    <loc>https://yugui.design/resume/</loc>
-  </url><url>
-    <loc>https://yugui.design/alldone/</loc>
-  </url><url>
-    <loc>https://yugui.design/apklis/</loc>
-  </url><url>
     <loc>https://yugui.design/ce/</loc>
   </url><url>
     <loc>https://yugui.design/kaiko/</loc>
-  </url><url>
-    <loc>https://yugui.design/all-projects/</loc>
   </url><url>
     <loc>https://yugui.design/pricing/</loc>
     <xhtml:link
@@ -106,6 +102,10 @@
                 hreflang="en"
                 href="https://yugui.design/privacy-policy/"
                 />
+  </url><url>
+    <loc>https://yugui.design/resume/</loc>
+  </url><url>
+    <loc>https://yugui.design/side-projects/</loc>
   </url><url>
     <loc>https://yugui.design/tags/</loc>
     <xhtml:link
