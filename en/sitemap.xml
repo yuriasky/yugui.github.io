@@ -73,8 +73,6 @@
   </url><url>
     <loc>https://yugui.design/resume/</loc>
   </url><url>
-    <loc>https://yugui.design/all-projects/</loc>
-  </url><url>
     <loc>https://yugui.design/alldone/</loc>
   </url><url>
     <loc>https://yugui.design/apklis/</loc>
@@ -82,6 +80,8 @@
     <loc>https://yugui.design/ce/</loc>
   </url><url>
     <loc>https://yugui.design/kaiko/</loc>
+  </url><url>
+    <loc>https://yugui.design/all-projects/</loc>
   </url><url>
     <loc>https://yugui.design/pricing/</loc>
     <xhtml:link
