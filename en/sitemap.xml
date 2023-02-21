@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://yugui.design/</loc>
     <xhtml:link
@@ -13,11 +14,17 @@
                 hreflang="en"
                 href="https://yugui.design/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/alldone/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/apklis/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -29,11 +36,17 @@
                 hreflang="en"
                 href="https://yugui.design/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/ce/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/kaiko/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/pricing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +58,9 @@
                 hreflang="en"
                 href="https://yugui.design/pricing/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -57,11 +72,17 @@
                 hreflang="en"
                 href="https://yugui.design/privacy-policy/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/resume/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/side-projects/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +94,9 @@
                 hreflang="en"
                 href="https://yugui.design/tags/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,4 +109,5 @@
                 href="https://yugui.design/terms-conditions/"
                 />
   </url>
+  
 </urlset>

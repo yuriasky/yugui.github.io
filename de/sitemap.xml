@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://yugui.design/de/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
@@ -14,13 +15,19 @@
                 hreflang="de"
                 href="https://yugui.design/de/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -32,7 +39,9 @@
                 hreflang="de"
                 href="https://yugui.design/de/terms-conditions/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -44,7 +53,9 @@
                 hreflang="de"
                 href="https://yugui.design/de/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,11 +67,17 @@
                 hreflang="de"
                 href="https://yugui.design/de/privacy-policy/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/faq/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/contact/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/pricing/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,7 +89,9 @@
                 hreflang="de"
                 href="https://yugui.design/de/pricing/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://yugui.design/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,4 +104,5 @@
                 href="https://yugui.design/de/tags/"
                 />
   </url>
+  
 </urlset>

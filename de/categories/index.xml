@@ -6,6 +6,10 @@
     <description>Recent content in Categories on Yuriaski Leyva, AKA yugui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Designed, animated and coded by me.© 2021</copyright><atom:link href="https://yugui.design/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Designed, animated and coded by me.© 2021</copyright>
+    
+	<atom:link href="https://yugui.design/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
