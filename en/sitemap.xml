@@ -15,8 +15,28 @@
                 />
   </url><url>
     <loc>https://yugui.design/alldone/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/alldone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/alldone/"
+                />
   </url><url>
     <loc>https://yugui.design/apklis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/apklis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/apklis/"
+                />
   </url><url>
     <loc>https://yugui.design/categories/</loc>
     <xhtml:link
@@ -31,10 +51,40 @@
                 />
   </url><url>
     <loc>https://yugui.design/collectai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/collectai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/collectai/"
+                />
   </url><url>
     <loc>https://yugui.design/ce/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/ce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/ce/"
+                />
   </url><url>
     <loc>https://yugui.design/kaiko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/kaiko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/kaiko/"
+                />
   </url><url>
     <loc>https://yugui.design/pricing/</loc>
     <xhtml:link
@@ -61,8 +111,28 @@
                 />
   </url><url>
     <loc>https://yugui.design/resume/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/resume/"
+                />
   </url><url>
     <loc>https://yugui.design/side-projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/side-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/side-projects/"
+                />
   </url><url>
     <loc>https://yugui.design/tags/</loc>
     <xhtml:link

@@ -13,11 +13,11 @@
 
 
 
-<link rel="alternate" hreflang="en" href="https://yugui.design/kaiko/">
+<link rel="alternate" hreflang="en" href="https://yugui.design/de/collectai/">
 
-<link rel="alternate" hreflang="de" href="https://yugui.design/de/kaiko/">
+<link rel="alternate" hreflang="de" href="https://yugui.design/de/collectai/">
 
-<link rel="alternate" hreflang="x-default" href="https://yugui.design/kaiko/">
+<link rel="alternate" hreflang="x-default" href="https://yugui.design/de/collectai/">
 
 
 <meta name="author" content="Yuriaski Leyva, AKA yugui">
@@ -166,15 +166,17 @@
 
 
   
-<div class="section-container-custom mt-0" id="Kaiko-Banner">    
-  <section class="section-custom pt-5">
+<div class="section-container-custom" id="collectAI-Banner">    
+  <section class="section-custom collectAI-banner-section">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-md-5 order-1 order-md-1 mt-5">
-          <img class="img-fluid" src="/images/Kaiko/Kaiko-Banner-Logo.svg" alt="">         
+        <div class="col-md-6 order-1 order-md-1 mt-5">
+          <img class="img-fluid" src="/images/collectAI/collectAI-Banner-Logo.svg" alt="collectAI logo">         
         </div>
-        <div class="col-md-7 order-2 order-md-2  mb-md-0 mt-5" >
-          <lottie-interactive path="https://assets2.lottiefiles.com/packages/lf20_cl7kkny2.json" interaction="onshow" loop autoplay></lottie-interactive>            
+        <div class="col-md-6 order-2 order-md-2  mb-md-0 mt-5">
+          <div id="collectAI-Project-Overview-Anim">
+            <canvas id="collectAI-Banner-Canvas"></canvas>         
+        </div>
         </div>
       </div>
     </div>
@@ -183,286 +185,172 @@
   
 
 
-<div class="project-content-kaiko">  
+<div class="project-content-apklis">  
   
   <div class="section-container-custom">
     <div class="container">        
       <h1 class="section-title-custom">Project overview</h1>  
       <div class="info">
         <lottie-interactive class="info-icon-anim" path="https://assets1.lottiefiles.com/packages/lf20_9f1h9wzs.json" interaction="onshow" loop autoplay></lottie-interactive>
-        <p class="project-overview-points-text">Due to a strict Non-Disclosure Agreement (NDA), specific details, proprietary workflows, and granular data regarding my contributions to Kaiko Systems are restricted. The following overview highlights my strategic approach and high-level impact while respecting the project’s confidential nature.</p>
+        <p class="project-overview-points-text">Due to the proprietary nature of Fintech operations at collectAI, I am showcasing a strategic subset of my work. This overview focuses on my main contributions, while respecting company trade secrets.</p>
       </div>     
   </div>    
     <div class="section-content-group">
     <section class="section-custom pt-0 project-overview">
       <div class="container">  
-        <img id="Kaiko-Project-Overview-Img" src="/images/Kaiko/Kaiko-1.png" alt="Project overview mockups"> 
+        <img id="collectAI-Project-Overview-Img" src="/images/collectAI/collectAI-1.jpg" alt="Project overview image"> 
         <div class="project-overview-points">
 
           <div class="order-2 ">          
             <h2 class="project-overview-points-title">The product</h2>                        
-            <p class="project-overview-points-text">A dual-platform maritime intelligence ecosystem. It integrates a mobile-first inspection tool for offshore crews with a powerful analytics dashboard for onshore management. This end-to-end solution transforms manual ship inspections into actionable data, providing real-time visibility into global fleet health.</p>          
+            <p class="project-overview-points-text">collectAI is an AI-powered B2B SaaS platform specializing in the 'Order-to-Cash' cycle. It automates and personalizes receivables management through intelligent communication workflows and integrated payment solutions, optimizing liquidity and customer retention for enterprise clients.</p>          
           </div>
 
           <div class="order-2 ">
             <h2 class="project-overview-points-title">Responsibilities</h2>                         
-            <p class="project-overview-points-text">Joining post-MVP, I was tasked with maturing the product’s design foundation. I architected and optimized a comprehensive Design System tailored to the Spectre CSS framework, ensuring technical alignment while elevating the UI. My role involved rapid prototyping and iterative testing of multiple design explorations to streamline complex maritime workflows.</p>          
+            <p class="project-overview-points-text">As the sole Product Designer, I led the end-to-end design for collectAI. I architected and scaled a comprehensive Design System in Figma, ensuring visual and functional consistency across the entire platform. My role extended beyond UX/UI, acting as a core member of both the Product and Frontend teams to oversee feature implementation and guarantee high-fidelity development outputs.</p>          
           </div>
 
           <div class="order-2 ">            
-            <h2 class="project-overview-points-title">The problem</h2>                         
-            <p class="project-overview-points-text">The initial MVP lacked the structural flexibility to scale beyond its niche. While highly functional for maritime shipping, the platform’s design framework couldn't easily adapt to adjacent markets. My objective was to re-architect the experience to support multi-sector fleet management—such as logistics and trucking—unlocking new revenue streams and user segments.</p>          
-          </div> 
-
+            <h2 class="project-overview-points-title">The Challenge: From Internal Tool to Client-Facing SaaS</h2>                         
+            <p class="project-overview-points-text">When I joined collectAI, the platform was undergoing a fundamental business model pivot. Originally designed as an internal-only tool, the objective was to transform it into a customer-facing portal for global enterprise clients. This transition revealed significant UX/UI debt that hindered commercial viability:              
+            </p>   
+            <ul class="project-overview-points-text">
+                <li><strong>Low Visual Maturity:</strong> Inconsistent styling and unoptimized color palettes that didn’t reflect a professional B2B Fintech brand.</li>
+                <li><strong>Accessibility Gaps:</strong> Critical components lacked the necessary contrast and accessibility standards (WCAG) required for a diverse user base.</li>
+                <li><strong>Legacy Navigation:</strong> The information architecture was built around internal workflows, making it unintuitive for external customers.</li>
+                <li><strong>Design-to-Code Friction:</strong> A lack of a unified design system meant that frontend implementation was fragmented, slowing down the release of new features.</li>
+              </ul>      
+          </div>
           <div class="order-2 ">            
             <h2 class="project-overview-points-title">The goal</h2>                         
-            <p class="project-overview-points-text">Our objective was to develop a highly flexible data input system capable of adapting to diverse industrial requirements. By designing a customizable framework for data entry, we aimed to empower Kaiko Systems to scale beyond maritime shipping into any machinery-heavy sector, ensuring the platform remains industry-agnostic and fully tailorable to specific client needs.</p>          
+            <p class="project-overview-points-text">My primary objective was to professionalize and transition collectAI’s internal-facing tool into a market-ready, B2B SaaS product. This involved architecting a scalable Design System from the ground up to ensure visual consistency and accessibility (WCAG), while re-engineering the Information Architecture to align with a customer-centric business model. The ultimate goal was to reduce development friction and establish a high-quality UX that could support the company’s expansion into the global enterprise market.</p>          
           </div>
-
           <div class="order-2 ">
-            <h2 class="project-overview-points-title">My role</h2>                        
-            <p class="project-overview-points-text">I was responsible for professionalizing the product’s visual and functional foundations. I architected a scalable Design System from the ground up—integrated with the Spectre CSS framework—and led the end-to-end UX strategy to transition the platform from a niche maritime tool into a versatile industrial ecosystem.</p>          
+            <h2 class="project-overview-points-title">Role & Professional Evolution</h2>                        
+            <p class="project-overview-points-text">My tenure at collectAI was marked by a significant trajectory of growth, evolving from a UX/UI Designer into a Senior Product Designer with full ownership of the product’s visual and systemic foundations. As the sole designer in the company, I was responsible for the end-to-end design lifecycle, bridging the gap between high-level business strategy and technical execution.</p>          
           </div>
-
           <div class="order-2 ">           
-            <h2 class="project-overview-points-title">Project duration</h2>                          
-            <p class="project-overview-points-text">I worked on this project from December 2020 till July 2022. Over these 19 months, I guided the product's design evolution from its post-MVP stage to a mature, multi-industry platform. My long-term commitment allowed me to not only architect the initial Design System but also to iterate on complex data-entry workflows based on real-world feedback from offshore crews.</p>          
-          </div> 
+            <h2 class="project-overview-points-title">Project tenure</h2>                          
+            <p class="project-overview-points-text">Since joining in July 2022, I have spearheaded the transformation of collectAI’s design ecosystem. Over the past 3+ years, I evolved from a UX/UI Designer into a Senior Product Designer, taking full ownership of the product's visual strategy.</p>          
+          </div>
         </div>  
       </div>     
     </div>
     </div>
 
 
+
+  
+<div class="section-container-custom last-items-group">
+  <h1 class="container section-title-custom">Core contributions</h1> 
+  
+  <div class="section-content-group">
+    <section class="section-custom pt-0">
+      <div class="container">        
+          <h2 class="project-card-title">Design System Architecture</h2>
+          <p class="project-overview-points-text">The first step in professionalizing the product was establishing a robust infrastructure. I architected a tripartite system to ensure a "Single Source of Truth," bridging the gap between design, documentation, and code.</p>
+          <h2 class="project-overview-points-title">The Ecosystem</h2>
+          <ul class="project-overview-points-text">
+            <li><strong>Figma (The Visual Source):</strong> I built a comprehensive library of atomic components and complex patterns, leveraging advanced features like auto-layout, variants, and design tokens to ensure high-fidelity prototyping and visual consistency.</li>
+            <li><strong>Confluence (The Governance Hub):</strong> I created the centralized documentation for design principles, usage guidelines, and UX writing standards. This ensured that stakeholders and product managers had a clear reference for the why behind design decisions.</li>
+            <li><strong>Storybook (The Technical Source):</strong> Working closely with the frontend team, I ensured that every Figma component had its functional twin in Storybook. This facilitated a seamless handoff and allowed for isolated testing of UI components in the production environment.</li>                
+          </ul>
+          <div class="container mt-4">        
+            <img class="img-fluid" src="/images/collectAI/DS-Files-Dependencies-Chart.svg" alt="Design system files dependencies chart">
+          </div>
+          <h2 class="project-overview-points-title">Key Outcome</h2>
+          <p class="project-overview-points-text">This structural alignment reduced design-to-code friction and established a common language across the Design-Product-Engineering triad, enabling us to scale features faster and with zero visual debt.</p>
+      </div>
+    </section>    
+  </div>
+  
+  <div class="section-content-group">
+    <section class="section-custom pt-0">
+      <div class="container">        
+          <h2 class="project-card-title">Visual Language & Accessibility Standardization</h2>
+          <p class="project-overview-points-text">To transition collectAI from an internal utility to a market-ready SaaS, I executed a complete overhaul of the platform’s visual foundations. My goal was to establish a high-trust, professional aesthetic that met international accessibility standards (WCAG).</p>
+          <h2 class="project-overview-points-title">Key actions</h2>
+          <ul class="project-overview-points-text">
+            <li><strong>Semantic Color System:</strong> I replaced fragmented hex codes with a structured semantic color palette. This ensured that every color served a specific functional purpose (e.g., Action, Surface, Error), simplifying future updates and theme scalability.</li>
+            <li><strong>Typography Hierarchy:</strong> I defined a rigorous typographic scale to improve information density and readability, critical for data-heavy Fintech dashboards.</li>
+            <li><strong>Accessibility First:</strong> I audited and corrected contrast ratios across the entire interface, ensuring the product reached WCAG 2.1 Level AA compliance, a non-negotiable requirement for global enterprise clients.</li>  
+            <li><strong>Iconography & Brand Cohesion:</strong> I standardized the iconography set to ensure a unified visual metaphor throughout the user journey, reinforcing brand recognition and reducing cognitive load.</li>              
+          </ul>
+          <div class="container mt-4">        
+            <img class="img-fluid" src="/images/collectAI/styles-overview.svg" alt="Design system files dependencies chart">
+          </div>
+          <h2 class="project-overview-points-title">The Impact</h2>
+          <p class="project-overview-points-text">The result was a cohesive, high-fidelity visual identity that projected the reliability expected of a Fintech leader. This standardization reduced UI bugs by 40% and drastically shortened the design-to-development feedback loop.</p>
+      </div>
+    </section>    
+  </div>
+   
+  <div class="section-content-group">
+    <section class="section-custom pt-0">
+      <div class="container">        
+          <h2 class="project-card-title">Design-to-Code Automation: Figma & GitHub Synchronization</h2>
+          <p class="project-overview-points-text">To eliminate friction in asset handovers and ensure a technical "Single Source of Truth," I designed and implemented an automated DesignOps workflow that directly connects design decisions with the development repository.</p>
+          <h2 class="project-overview-points-title">The Technical Solution</h2>
+          <ul class="project-overview-points-text">
+            <li><strong>Figma API & GitHub Actions:</strong> I engineered a custom automation pipeline that monitors changes within the Figma design tokens and iconography library.</li>
+            <li><strong>Automated Synchronization:</strong> Leveraging the Figma API, the system extracts vector assets, optimizes them for web performance, and automatically generates a Pull Request in GitHub with production-ready files.</li>
+            <li><strong>Eliminating Manual Handoff:</strong> This process removed the need for manual exporting and importing, reducing implementation errors to zero and ensuring the Frontend team always works with the latest verified assets.</li>                          
+          </ul>
+          <div class="container mt-4">        
+            <img class="img-fluid" src="/images/collectAI/github-figma-sync.svg" alt="Design system files dependencies chart">
+          </div>
+          <h2 class="project-overview-points-title">Impact on Efficiency</h2>
+          <ul class="project-overview-points-text">
+            <li><strong>Reduced Feedback Loops:</strong> Global iconography updates transitioned from hours of cross-team coordination to seconds of automated execution.</li>
+            <li><strong>Technical Integrity:</strong> I guaranteed that 100% of the assets in production were identical to those defined in the Design System, significantly strengthening the visual integrity of the collectAI platform.</li>                               
+          </ul>          
+      </div>
+    </section>    
+  </div>  
+</div>
+
+<div class="section-container-custom last-items-group">
+  <h1 class="container section-title-custom">Final Visual Comparison</h1> 
+  
+  <div class="section-content-group">
+    <section class="section-custom pt-0">
+      <div class="container">        
+          <h2 class="project-card-title">De-cluttering the Workflow Builder</h2>
+          <p class="project-overview-points-text">The core engine of the platform, designed to visually orchestrate the entire lifecycle of a claim. From the initial trigger to final payment, this tool empowers users to map, automate, and manage complex financial recovery journeys through an intuitive and scalable interface.</p>          
+      </div>     
+      
+      <div class="sketch-image-container container">        
+        <h2 class="project-card-subtitle">Optimizing the Workflow Node Interaction</h2>
+        <p class="project-overview-points-text">I redesigned the node-entry interaction to maximize space efficiency and cognitive clarity. By transitioning from a rigid toolbar at the top to a flexible, contextual popover. I achieved superior legibility and established a scalable framework that seamlessly accommodates future functionalities without cluttering the canvas.</p>
+          <div class="two-images">
+            <figure>
+              <img class="project-overview-img" src="/images/collectAI/Adding first node-Before.png" alt="Adding first node-Before">
+              <figcaption><strong>Before:</strong> A rigid interface with wasted space and limited scalability (High friction).</figcaption>
+            </figure>
+            <figure>
+              <img class="project-overview-img" src="/images/collectAI/Adding first node-After.png" alt="Adding first node-After">
+              <figcaption><strong>After:</strong> A contextual popover that maintains full workflow visibility while editing nodes (Low friction).</figcaption>
+            </figure>                    
+          </div>          
+      </div> 
+      <div class="sketch-image-container container">        
+        <h2 class="project-card-subtitle">De-cluttering Complexity & Enhancing UX Clarity</h2>
+        <p class="project-overview-points-text">I overhauled the node interaction model by consolidating detailed views into a streamlined sidebar, effectively eliminating visual clutter. This structural redesign reduces cognitive load and allows for a more focused, intuitive editing experience within the workflow.</p>          
+          <div class="two-images">
+            <figure>
+              <img class="project-overview-img" src="/images/collectAI/Communication-Step-Before.png" alt="Communication Step Before">
+              <figcaption><strong>Before:</strong> A cluttered workspace with fragmented node interactions and scattered details (High cognitive load).</figcaption>
+            </figure> 
+            <figure>
+              <img class="project-overview-img" src="/images/collectAI/Communication-Step-After.png" alt="Communication Step After">
+              <figcaption><strong>After:</strong> A redesigned interaction model featuring a consolidated sidebar for detailed views, significantly reducing visual noise and streamlining the editing process (Focused UX).</figcaption>
+            </figure>                              
+          </div>
+      </div>     
+    </section>    
+  </div>
  
-<div class="section-container-custom last-items-group">
-  <h1 class="container section-title-custom">Getting to know the user</h1> 
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">User research summary</h2>
-          <p class="project-overview-points-text">Most of the user research data came from crew members interviews and usability tests done with the MVP solution onboard. The rest of the requirements were proposed by stakeholders and project managers.</p>
-      </div>
-    </section>    
-  </div>
-  
-  <div class="section-content-group">
-    <section class="">
-      <div class="container">        
-          <h2 class="project-card-title">Pain points</h2>
-          <div class="project-overview-points">
-
-            <div class="order-2 ">             
-              <h2 class="project-overview-points-title">Lack of flexibility</h2>                          
-              <p class="project-overview-points-text">It's hard to deploy the existent solutions on other machinery sector or even on other ship fleets with specific characteristics.</p>          
-            </div> 
-  
-            <div class="order-2 ">
-              <h2 class="project-overview-points-title">Different flows to complete surveys</h2>
-              <p class="project-overview-points-text">Every survey has a different flow and specific way to be completed in order to review ship component's health. Crew members do not feel cohesion when using the mobile app.</p>          
-            </div>            
-          </div>  
-      </div>
-    </section>    
-  </div>
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">Problem statement #1</h2>
-          <p class="project-overview-points-text">Existing solutions provided by Kaiko Systems lack flexibility, so it is hard to customize and deploy them for the growing number of customers with different specifications.
-            </p>
-      </div>      
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">Problem statement #2</h2>
-          <p class="project-overview-points-text">Ships have several sections and components that need to be periodically reviewed. Crew members use surveys to collect the info about those components' health status, but those surveys are different for each section or component. The mobile app used onboard has a hard learning curve due to this inconsistency.</p>
-      </div>     
-    </section>        
-  </div>
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">Hypothesis</h2>
-          <p class="project-overview-points-text">Both problems can be addressed by one approach. A flexible data input can be designed to solve the system flexibility and adaptability to a broad range of scenarios, at the same time this will serve to form consistent surveys that will make Kaiko's apps grow in usability and users engagement.</p>
-      </div>     
-    </section>        
-  </div>
-</div>
-
-<div class="section-container-custom last-items-group">
-  <h1 class="container section-title-custom">Flexible data input</h1> 
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="section-content-group">
-        <section class="section-custom pt-0">
-          <div class="container">        
-              <h2 class="project-card-title">Definition</h2>
-              <p class="project-overview-points-text">The first step was defining a system that allows creating surveys by pieces to increase scalability; this gives Kaiko Systems the possibility of creating all kind of surveys to apply them in changing scenarios. Also having in mind this system needs to be flexible, so it will be easy to add new rules to it.</p>
-          </div>     
-        </section>        
-      </div>
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-subtitle">Media type objects</h2>
-        <p class="project-overview-points-text">One of the data collected from the mobile app are pictures, video or sound. This will allow creating this kind of objects to form surveys in where some steps need it.</p>
-        <div class="container d-flex justify-content-center mt-4">        
-          <img class="img-fluid" src="/images/Kaiko/Kaiko-Media-Type-Objects-Diagram.svg" alt="">
-        </div>      
-      </div> 
-      
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-subtitle">List selection objects</h2>
-        <p class="project-overview-points-text">Surveys ofter have several options to select the state of ship component. This kind of object cover the creation of any kind of list.</p>
-        <div class="container d-flex justify-content-center mt-4">        
-          <img class="img-fluid" src="/images/Kaiko/Kaiko-List-Selection-Objects-Diagram.svg" alt="">
-        </div>      
-      </div>
-
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-subtitle">Text input objects</h2>
-        <p class="project-overview-points-text">The most common and versatile object type are inputs. They allow entering more specific information.</p>
-        <div class="container d-flex justify-content-center mt-4">        
-          <img class="img-fluid" src="/images/Kaiko/Kaiko-Text-Input-Objects-Diagram.svg" alt="">
-        </div>      
-      </div>  
-      
-  </div>
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">Insights</h2>
-          <p class="project-overview-points-text">These conceptual models defined the roadmap to develop a flexible system that covers several scenarios due to how configurable it is. Even if some other kind of data appears, it will be easily added to the system. As the mobile app is web-based, the surveys can be designed using this model and presented to users without big effort.</p>
-      </div>     
-    </section>        
-  </div>
-</div>
-
-<div class="section-container-custom last-items-group">
-  <h1 class="container section-title-custom">Starting the design</h1> 
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">Exploration</h2>          
-      </div>
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-subtitle">Paper wireframes exploration</h2>
-        <p class="project-overview-points-text">The goal here was to find a way to form surveys using objects defined in the flexible data input model as steps. Following the main goal which is to allow creating a broader kind of surveys using those objects as pieces (steps).</p>
-        <img class="mt-4 project-overview-img" src="/images/Kaiko/Kaiko-Sketch.jpg" alt="">
-      </div> 
-      
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-subtitle">Paper wireframes exploration</h2>
-        <p class="project-overview-points-text">The goal here was to find a way to form surveys using objects defined in the flexible data input model as steps. Following the main goal which is to allow creating a broader kind of surveys using those objects as pieces (steps).</p>
-        <img class="mt-4 img-fluid rounded-lg" src="/images/Kaiko/Kaiko-Mobile-Digital.png" alt="">
-      </div>        
-      
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-subtitle">Low-fidelity prototype</h2>
-        <p class="project-overview-points-text">The flow is simple, from Home page it is possible to reach an app detailed view, filtering and going to Developer view.</p>
-        <div class="video-container-mobile">
-          <video class="video-frame" controls>
-            <source src="/images/Kaiko/Low-Fi-Mobile.webm" type="video/webm"> 
-            <source src="/images/Kaiko/Low-Fi-Mobile.mp4" type="video/mp4">             
-          Your browser does not support the video tag.
-          </video>                
-        </div>
-      </div>
-    </section>    
-  </div>   
-</div>
-
-<div class="section-container-custom last-items-group">
-  <h1 class="container section-title-custom">Refining the design</h1> 
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-title">Survey flow before iterations</h2>        
-        <div class="video-container-mobile">
-          <video class="video-frame" controls>
-            <source src="/images/Kaiko/Hi-Fi-Mobile-Before.webm" type="video/webm"> 
-            <source src="/images/Kaiko/Hi-Fi-Mobile-Before.mp4" type="video/mp4">             
-          Your browser does not support the video tag.
-          </video>                
-        </div>
-      </div>      
-    </section>
-  </div>
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="sketch-image-container container">        
-        <h2 class="project-card-title">High-fidelity prototype after iterations</h2>        
-          <div class="video-container-mobile">
-            <video class="video-frame" controls>
-              <source src="/images/Kaiko/Hi-Fi-Mobile-After.webm" type="video/webm"> 
-              <source src="/images/Kaiko/Hi-Fi-Mobile-After.mp4" type="video/mp4">             
-            Your browser does not support the video tag.
-            </video>                
-          </div>
-      </div>
-    </section>
-  </div>
-</div>
-
-<div class="section-container-custom last-items-group">
-  <h1 class="container section-title-custom">Testing on-site</h1> 
-  <div class="section-content-group">
-    <div class="sketch-image-container container">        
-      <h2 class="project-card-title">Test sessions onboard</h2>
-      <p class="project-overview-points-text">Crew members were end users, so final test sesions where made directly onboard with them.</p>
-        <div class="two-images">
-          <img class="project-overview-img" src="/images/Kaiko/Testing-Onboard-1.png" alt="">          
-          <img class="project-overview-img" src="/images/Kaiko/Testing-Onboard-2.png" alt="">          
-        </div>
-    </div>
-  </div>
-  <div class="section-content-group">
-    <div class="sketch-image-container container">        
-      <h2 class="project-card-title">Test sessions onshore</h2>
-      <p class="project-overview-points-text">Kaiko System also has a desktop dashboard app to manage all insight gathered from mobile app on ships. Here we can see a test to try out the new way of collecting data.</p>
-        <div class="two-images">
-          <img class="project-overview-img" src="/images/Kaiko/Testing-Onshore-1.png" alt="">          
-          <img class="project-overview-img" src="/images/Kaiko/Testing-Onshore-2.png" alt="">          
-        </div>
-    </div>    
-  </div> 
-  
-  <div class="section-content-group">
-    <section class="section-custom pt-0">
-      <div class="container">        
-          <h2 class="project-card-title">Usability study findings</h2>
-          <p class="project-overview-points-text">The Flexible Data Input system was implemented on a new branch, so the old app was kept to make A/B test rounds.</p>
-      </div>
-      <div class="container">         
-        <div class="project-overview-points">
-          <div class="order-2 ">          
-            <p class="project-overview-points-text"><span class="numbered-paragraph">1</span>Crew members could complete the test survey keeping track of the step they were.</p>          
-          </div> 
-
-          <div class="order-2 ">
-            <p class="project-overview-points-text"><span class="numbered-paragraph">2</span>Surveys look like part of a system, as they should, so users felt coherence.</p>          
-          </div> 
-
-          <div class="order-2 ">
-            <p class="project-overview-points-text"><span class="numbered-paragraph">3</span>It was easier to correct certain steps just by selecting them using the numbered progress line.</p>          
-          </div> 
-
-          <div class="order-2 ">
-            <p class="project-overview-points-text"><span class="numbered-paragraph">4</span>Surveys can be longer in some cases, so inspections can take more time. Some users (crew members) complained about it.</p>          
-          </div>
-        </div>  
-      </div>  
-    </section>
-  </div>   
-</div>
 
 <div class="section-container-custom last-items-group">
   <h1 class="container section-title-custom">Going forward</h1> 
@@ -476,58 +364,36 @@
         <div class="project-overview-points">
           <div class="order-2 ">            
             <h2 class="project-overview-points-title">Impact</h2>
-            <p class="project-overview-points-text">The research for creating a Flexible Data Input and its implementation widen Kaiko Systems' market opportunities. Kaiko Systems became more flexible and changes made to mobile app surveys took less time. End users could complete surveys straightforwardly. Vessel tracking deficiencies could be analyzed efficiently and with better records.</p>          
+            <p class="project-overview-points-text">My contributions transformed a rigid internal utility into a scalable, market-ready SaaS platform. By automating the design-to-code pipeline and redesigning core workflow interactions, I reduced manual handoff errors by 90% and significantly accelerated the product development lifecycle. The result is a high-performance, accessible, and future-proof interface that empowers users to manage complex financial logic with ease.</p>          
           </div> 
-
           <div class="order-2 ">
             <h2 class="project-overview-points-title">What I learned</h2>
-            <p class="project-overview-points-text">This project was challenging because it covers shipping industry, something new for me. It took me out of my comfort zone and gave me a precious experience. In addition, my worked completely remote during times of COVID which furthered my communication skills with stakeholders. It helped me to consolidate my role as Product Designer as well as my knowledge of Design Systems Optimization.</p>          
+            <p class="project-overview-points-text">This project was a catalyst for mastering the intersection of design systems and DevOps. By building a custom automation pipeline, I gained deep expertise in the Figma API and GitHub Actions to bridge the gap between design and production. Beyond the code, I learned to balance high-level UX strategy with technical constraints, evolving from creating 'static designs' to engineering scalable, future-proof interfaces for complex B2B SaaS environments.</p>          
           </div> 
 
         </div>     
       </div>
     </div>
-    
-    <div class="section-content-group">
-      <section class="section-custom pt-0">
-        <div class="container">        
-            <h2 class="project-card-title">Next steps</h2>          
-        </div>
-        <div class="container">         
-          <div class="project-overview-points">
-            <div class="order-2 ">          
-              <p class="project-overview-points-text"><span class="numbered-paragraph">1</span>During the first version of the Flexible Data Input case, it was tedious for end users when survey were too long, so in further updates one of the goals will be iterate on this to optimize this flow.</p>          
-            </div> 
   
-            <div class="order-2 ">
-              <p class="project-overview-points-text"><span class="numbered-paragraph">2</span>The mobile app is not friendly for novice users, so next roadmap will include a full revision of both apps, mobile and desktop to include an onboarding feature for new user to familiarize with them.</p>          
-            </div>
-          </div>  
-        </div>  
-      </section>
-    </div>
-</div>
-  
-<div class="section-container-custom margin-bottom-200">
+  <div class="section-container-custom margin-bottom-200">
     <h1 class="container section-title-custom color-secondary-37">Check other works</h1>
     <section class="section-content-group">
       <div class="container">
-        <div class="works-link-cards-container">
-                    
-            <a class="work-link-card" href="https://yugui.design/collectai"><img src="/images/CollectAI-Link-Card.svg" alt="collectAI project"></a>  
-                   
-            <a class="work-link-card" href="https://yugui.design/apklis"><img src="/images/Apklis-Link-Card.svg" alt="Apklis project"></a>                  
+        <div class="works-link-cards-container">                   
                     
             <a class="work-link-card" href="https://yugui.design/alldone"><img src="/images/Alldone-Link-Card.svg" alt="Alldone project"></a>         
-          
+                   
+            <a class="work-link-card" href="https://yugui.design/kaiko"><img src="/images/Kaiko-Link-Card.svg" alt="Kaiko Systems project"></a>
+                    
+            <a class="work-link-card" href="https://yugui.design/ce"><img src="/images/CE-Link-Card.svg" alt="Cuban.Engineer project"></a>           
                     
             <a class="work-link-card" href="https://yugui.design/side-projects"><img src="/images/Archive-Link-Card.svg" alt="Link to archived projects"></a>
           </div>                 
         </div>
       </section>
-    </div>
+      </div>
     
-</div>
+  </div>
   
       
 

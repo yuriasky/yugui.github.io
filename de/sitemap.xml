@@ -21,6 +21,18 @@
     <loc>https://yugui.design/de/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
+    <loc>https://yugui.design/de/alldone/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/alldone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/alldone/"
+                />
+  </url><url>
     <loc>https://yugui.design/de/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -33,6 +45,18 @@
                 href="https://yugui.design/de/terms-conditions/"
                 />
   </url><url>
+    <loc>https://yugui.design/de/apklis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/apklis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/apklis/"
+                />
+  </url><url>
     <loc>https://yugui.design/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -43,6 +67,30 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://yugui.design/de/categories/"
+                />
+  </url><url>
+    <loc>https://yugui.design/de/ce/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/ce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/ce/"
+                />
+  </url><url>
+    <loc>https://yugui.design/de/collectai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/collectai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/collectai/"
                 />
   </url><url>
     <loc>https://yugui.design/de/privacy-policy/</loc>
@@ -59,7 +107,43 @@
   </url><url>
     <loc>https://yugui.design/de/faq/</loc>
   </url><url>
+    <loc>https://yugui.design/de/kaiko/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/kaiko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/kaiko/"
+                />
+  </url><url>
     <loc>https://yugui.design/de/contact/</loc>
+  </url><url>
+    <loc>https://yugui.design/de/resume/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/resume/"
+                />
+  </url><url>
+    <loc>https://yugui.design/de/side-projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yugui.design/side-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://yugui.design/de/side-projects/"
+                />
   </url><url>
     <loc>https://yugui.design/de/pricing/</loc>
     <xhtml:link
